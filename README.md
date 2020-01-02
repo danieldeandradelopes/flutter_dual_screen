@@ -1,4 +1,4 @@
-# flutter_dual_screen
+# Material and Cupertino (two screens for two platforms)
 
 
 ![](https://lh3.googleusercontent.com/a-/AAuE7mBJIVJE8a3rkWTnNtJwgXnhE9SvyyFvAaD578QrRQ=s120-p-rw-no)
@@ -27,3 +27,5 @@ In this repository I approached how you can make two screens, one for android wi
 ## My website:
 ##### https://jacode.com.br
 
+## My Linkedin
+##### https://www.linkedin.com/in/daniel-de-andrade-lopes-5242b4b1/
