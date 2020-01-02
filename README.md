@@ -10,7 +10,7 @@ In this repository I approached how you can make two screens, one for android wi
 ### Screans
 
 ### Print 1:
-##### Here I created a navbar and a gallery of images..
+##### Android Screen
 
 ![](https://raw.githubusercontent.com/danieldeandradelopes/flutter_dual_screen/master/prints/screen-android.png)
 
@@ -18,7 +18,7 @@ In this repository I approached how you can make two screens, one for android wi
 
 
 ### Print 2:
-##### Now I created a static list of products.
+##### Ios Screen.
 
 ![](https://raw.githubusercontent.com/danieldeandradelopes/flutter_dual_screen/master/prints/screen-ios.png)
 
